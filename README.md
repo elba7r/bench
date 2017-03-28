@@ -46,9 +46,9 @@ Note: Please do not remove the bench directory the above commands will create
 
 * Add apps
 
-	The get-app command gets remote frappe apps from a remote git repository and installs it. Example: [erpnext](https://github.com/frappe/erpnext)
+	The get-app command gets remote frappe apps from a remote git repository and installs it. Example: [erpnext](https://github.com/elba7r/netrasuite)
 
-		bench get-app erpnext https://github.com/frappe/erpnext
+		bench get-app erpnext https://github.com/elba7r/netrasuite
 
 * Add site
 
